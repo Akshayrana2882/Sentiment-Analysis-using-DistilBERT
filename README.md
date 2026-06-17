@@ -1,5 +1,5 @@
 # Sentiment-Analysis-using-DistilBERT
-# Gaming Sentiment Analysis using DistilBERT
+# Sentiment Analysis using DistilBERT
 
 Developed an end-to-end sentiment analysis system using DistilBERT to classify gaming-related tweets into three categories: Negative, Neutral, and Positive. The project involves data preprocessing, tokenization using the `distilbert-base-uncased` tokenizer, fine-tuning a transformer-based sequence classification model, and evaluating performance using accuracy, precision, recall, F1-score, and confusion matrix.
 
